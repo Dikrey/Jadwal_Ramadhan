@@ -1,6 +1,8 @@
 
 # **Jadwal Puasa Ramadhan - Raihan_Official0307**
 
+support: https://saweria.co/Raihanofficial0307
+
 **Jadwal Puasa Ramadhan** adalah aplikasi web responsif yang dirancang untuk membantu pengguna melacak waktu sholat harian selama bulan Ramadhan. Aplikasi ini menyediakan informasi waktu sholat seperti Imsak, Subuh, Dzuhur, Ashar, Maghrib, dan Isya secara dinamis berdasarkan waktu saat ini. Selain itu, aplikasi ini dilengkapi dengan fitur interaktif, animasi modern, dan dukungan mode gelap (dark mode) untuk pengalaman pengguna yang lebih nyaman.
 
 ## **Fitur Utama**
